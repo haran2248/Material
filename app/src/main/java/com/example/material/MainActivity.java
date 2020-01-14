@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
             public void onCancelled(FirebaseError firebaseError) {
 
             }
+            //just checking if im able to update this in github
         });
        /* button.setOnClickListener(new View.OnClickListener() {
             @Override
